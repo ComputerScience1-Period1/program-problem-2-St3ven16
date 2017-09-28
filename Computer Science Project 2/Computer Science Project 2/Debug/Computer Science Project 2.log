@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Computer Science Project 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\237914\desktop\computer science assignments\computer science project 2\computer science project 2\source.cpp(21): error C2144: syntax error: 'float' should be preceded by ';'
+c:\users\237914\desktop\computer science assignments\computer science project 2\computer science project 2\source.cpp(23): error C2371: 'car': redefinition; different basic types
+  c:\users\237914\desktop\computer science assignments\computer science project 2\computer science project 2\source.cpp(21): note: see declaration of 'car'
+c:\users\237914\desktop\computer science assignments\computer science project 2\computer science project 2\source.cpp(29): error C2088: '>>': illegal for class
+c:\users\237914\desktop\computer science assignments\computer science project 2\computer science project 2\source.cpp(41): error C2088: '<<': illegal for class
+c:\users\237914\desktop\computer science assignments\computer science project 2\computer science project 2\source.cpp(42): error C2065: 'end1': undeclared identifier
+c:\users\237914\desktop\computer science assignments\computer science project 2\computer science project 2\source.cpp(49): error C2065: 'end1': undeclared identifier
+c:\users\237914\desktop\computer science assignments\computer science project 2\computer science project 2\source.cpp(51): error C2059: syntax error: ','
