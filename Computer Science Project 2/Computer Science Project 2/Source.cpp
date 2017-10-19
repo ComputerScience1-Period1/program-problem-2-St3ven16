@@ -48,13 +48,13 @@ void main() {
 
 	// Change Values
 
-	cout << "2";
+	cout << "2" << endl;
 	cin >> calc_1;
-	cout << "1";
+	cout << "1" << endl;
 	cin >> calc_2;
-	cout << calc_1 << " + " << calc_2 << "=" << calc_1 + calc_2 << end1;
+	cout << calc_1 << " + " << calc_2 << " = " << calc_1 + calc_2 << end1;
 	calc_3 = calc_1 * calc_2;
-	cout << calc_1 << "*" << calc_2 << "=" << calc_3 << end1;
+	cout << calc_1 << " * " << calc_2 << " = " << calc_3 << end1;
 	// Pause
 	pause();
 }
